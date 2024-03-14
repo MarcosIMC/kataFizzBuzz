@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "katafizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marcos Medina Castellano",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
